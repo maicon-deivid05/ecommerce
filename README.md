@@ -26,6 +26,7 @@
     <img src="https://github.com/maicon-deivid05/ecommerce/blob/master/assets/img/Video_1614802325.gif" width="500px">
 </p>
 <br>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3a771b3e-5a49-4d39-80e1-6936bd7c6bf0/deploy-status)](https://app.netlify.com/sites/papaya-muffin-e2fe2a/deploys)
 <p align="center">
    ## 💼 Tecnologias utilizadas
 Para o desenvolvimento deste site utilizei as seguintes tecnologias:
